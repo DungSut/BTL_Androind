@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="200dp"
+    android:padding="3dp"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/imgAnhChinh"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        app:srcCompat="@drawable/bach_hoa_online" />
+
+    <TextView
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:textSize="22sp"
+        android:id="@+id/tvTen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tên sản phẩm" />
+
+    <TextView
+        android:textStyle="italic"
+        android:gravity="center_horizontal"
+        android:textSize="22sp"
+        android:id="@+id/tvGia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Giá sản phẩm" />
+</LinearLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimary"
+    android:elevation="4dp">
+
+    <LinearLayout
+        android:weightSum="10"
+        android:layout_width="380sp"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:layout_marginTop="7dp"
+            android:textStyle="bold"
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:textSize="26sp"
+            android:text="Tìm kiếm - Tiết kiệm" />
+
+        <ImageView
+            android:paddingRight="50dp"
+            android:id="@+id/imgCart"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_weight="5"
+            app:srcCompat="@drawable/ic_baseline_shopping_cart_24"
+            tools:ignore="VectorDrawableCompat" />
+
+    </LinearLayout>
+
+</androidx.appcompat.widget.Toolbar>

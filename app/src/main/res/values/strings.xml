@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">BTL_Andorid</string>
+    <string name="noidung11">Đơn hàng sẽ được miễn phí "Phí vận chuyển" khi giá trị đơn hàng
+    từ 250.000 VNĐ. Trong trường hợp giá đơn hàng chưa đủ mức miễn phí vận chuyển thì phí sẽ được
+    áp dụng 19.000 VNĐ/ đơn hàng. Sản phẩm từ một số nhà hàng sẽ có chính sách vận chuyển riêng.
+    Phí vận chuyển được nhà bán quy định dựa trên trọng lượng và địa điểm giao hàng. Quý khách có
+    thể tham khảo phí vận chuyển (tạm tính) tại trang sản phẩm sau khi chọn địa chỉ giao hàng, hoặc
+    kiểm tra thông tin phí chính xác nhất sau khi thanh toán. Phụ kiện cồng kềnh sẽ được áp dụng với
+    đơn hàng miễn phí khi có tổng trọng lượng hàng dưới 5kg đã bao gồm quà tặng. Đơn hàng có trọng
+    lượng từ 5kg sẽ được thu phí trên mỗi 0.5kg cộng thêm theo từng mức khung thanh toán. Tiki áp dụng
+    mức phí 39.000/ đơn hàng cho mọi đơn hàng đăng ký dịch vụ TikiNOW - Giao nhanh và 29.000/ đơn
+    hàng TikiNOW - Giao hàng hôm sau. Bên cạnh đó, sẽ có ưu đãi đặc biệt về giá khi đăng ký trọn gói, quý
+    khách có thể tham khảo chi tiết.</string>
+    <string name="noidung12">Đến hẹn lại lên, vào ngày Mùng 10 tháng Giêng Âm lịch (Ngày vía thần
+    tài), người Việt thường có tục mua vàng cầu mong một năm buôn may bán đắt. Ngày nay, người ta
+    mua vàng không chỉ để cầu tài cầu lộc trong kinh doanh, buôn bán, rất nhiều gia đìng cũng chuộng
+    xuất tiền mua vàng ngày Vía Thần Tài để cầu mong gia khuyến an khang. Để phục vụ khách hàng
+    tốt nhất trong ngày Vía Thần Tài, Tiki triển khai chương trình bán hàng và quà tặng thật chu
+    đáo từ trước đó 1 tuần. Năm nay, với mong muốn khách hàng thuận tiện rước một năm tài lộc hanh
+    thông, từ ngày 25/2, chương trình bán hàng ngày Vía Thần Tài của Tiki với thông điệp Tài Lộc
+    Vững Vàng, Gia Khuyến An Khang sẽ được triển khai với nhiều khuyến mãi và quà tặng hấp dẫn.
+    Trong thời gian diễn ra chương trình, với mỗi đơn mua hàng có giá trị dưới 5.000.000 VNĐ, khách
+    hàng sẽ nhận được một phiếu Thần Tài nhỏ trị giá 390.000 VNĐ, với hóa đơn từ 5.000.000 VNĐ trở
+    lên, khách hàng sẽ nhận được một phiếu thần tài lớn giá trị 790.000 VNĐ. Các phiếu thần tài nhỏ
+    và lớn sẽ được áp dụng cho lần mua sắm tiếp theo. Để khách hàng thuận tiện mua sắm vào dịp
+    Vía Thần Tài, Tiki luôn sẵn sàng phục vụ . Song song đó, dòng hàng được rất nhiều khách hàng
+    và doanh nghiệp yêu chuộng hàng năm chính là tượng vàng 24k và tượng mạ vàng với nhiều mẫu mã
+    cũng được Tiki phục vụ quý khách. Ghé thăm Tiki ngay hôm nay để trải nghiệm không gian mua sắm
+    hiện đại và chu đáo, rước may mắn ngày Vía Thần Tài cho năm mới Tài Lộc Vững Vàng, Gia Khuyến
+    An Khang nhé.</string>
+    <string name="noidung13">Mua sách giáo khoa cho con là một nhu cầu không thể thiếu đối với các
+    bậc phụ huynh, thế nhưng trên thị trường sách hiện nay rất đa dạng khiến nhiều người bối rối. Sự
+    nhập nhèm giữa sách giáo khoa và sách tham khảo khiến cho nhiều khi phụ huynh không phân biệt được
+    đâu là sách phải mua. Trước thực tế này, Tiki đưa ra chương trình ưu đãi giành cho phụ huynh để
+    tránh lãng phí, tốn kém khi mua sách cho con. Nộ dung sách vẫn giữ nguyên như các năm trước, giá
+    đã có điều chỉnh so với mọi năm. Sách tham khảo là tài liệu được Tiki phân phối trên thị trường
+    dưới sự kiểm tra của bộ giáo dục và đào tạo đảm bảo toàn bộ về chất lượng cũng như giá cả. Trong
+    đợt phát hành sách giáo khoa, Tiki sẽ tổ chức thực hiện giảm giá cũng như nâng cao các dịch vụ
+    cho khách hàng. Đối với khách hàng trên 500k, Tiki sẽ áp dụng chương trình khuyến mại cho khách
+    hàng giảm 5% đối với hóa đơn. Đối với khách hàng có hóa đơn trên 500k, Tiki sẽ áp dụng chương trình
+    khuyến mại cho khách hàng giảm 10% đi kèm với sự kiện giao hàng nhanh. Bên cạnh đó, để phục vụ mua
+    sách giáo khoa của các phụ huynh được kịp thời, Tiki thiết lập thêm đường dây nóng 0377 333 545
+    để tiếp nhận riêng các thông tin về sách giáo khoa. Thời gian trực 24/7 bao gồm cả ngày lễ và
+    thứ bảy, chủ nhật.</string>
+    <string name="noidung14">Công nghệ là sự phát minh, sự thay đổi việc sử dụng, và kiến thức về
+    các công cụ, máy móc, kỹ thuật, kỹ năng nghề nghiệp, hệ thống và phương pháp tổ chức nhằm giải
+    quyết một vấn đề, cải tiến một phương pháp đã tồn tại, đạt một mục đích, hay thực hiện một chức
+    năng cụ thể. Công nghệ cũng có thể là một tập hợp những công việc như vậy, bao gồm máy móc, những
+    sự việc sắp xếp, hay những quy trình. Công nghệ ảnh hưởng đáng kể lên khả năng kiểm soát và thích
+    nghi của con người cũng như của những động vật khác vào môi trường tự nhiên của mình. Thuật ngữ
+    sẽ có thể được dùng theo phương pháp nghĩa chung hay cho những lĩnh vực cụ thể, ví dụ như công
+    nghệ xây dựng, công nghệ thông tin. Trong tiếng Việt, các từ "khoa học", "kỹ thuật", và
+        "công nghệ" đôi khi được dùng với nghĩa tương tự nhau hay được ghép lại với nhau (chẳng hạn
+        "khoa học kỹ thuật", "khoa học công nghệ", và "kỹ thuật công nghệ"). Tuy vậy, công nghệ khác
+        với khoa học và kỹ thuật. Khoa học là toàn bộ hoạt động có hệ thống nhằm xây dựng và tổ chức
+        kiến thức dưới hình thức những lời giải thích và tiên đoán có thể kiểm tra được về vũ trụ.
+        Còn kỹ thuật là việc ứng dụng các kiến thức khoa học, kinh tế, xã hội, và thực tiễn để thiết
+        kế, xây dựng, và duy trì các cấu trúc, máy móc, thiết bị, hệ thống, vật liệu,
+        và quá trình.</string>
+    <string name="noidung15">Black Friday là một cái tên không chính thức cho ngày thứ sáu ngay sau
+        Lễ Tạ Ơn (ngày Lễ Tạ Ơn rơi vào ngày Thứ Năm lần thứ 4 trong tháng 11 ở Hoa Kỳ, cho nên Thứ
+        Sáu đen rơi vào khoảng ngày 23-29 tháng 11) và được coi là ngày mở hàng cho mùa mua sắm
+        Giáng sinh của Mỹ kể từ năm 1952, mặc dù thuật ngữ "Black Friday" đã không được sử dụng rộng
+        rãi cho đến những thập kỷ gần đây. Ngày đặc biệt này có xuất xứ từ tình trạng tắc nghẽn giao
+        thông xảy ra vào ngày thứ sáu sau Lễ Tạ Ơn năm 1965 ở Philadelphia, khi hàng trăm nghìn
+        người Mỹ chen chúc nhau ở các con phố, vỉa hè đi mua sắm để sửa soạn cho Lễ Noel sắp đến,
+        và theo truyền thống được xem là ngày bắt đầu mùa mua sắm Giáng sinh, tương tự như Boxing
+        Day ở nhiều quốc gia Khối thịnh vượng chung. Nhiều cửa hàng bán hàng giảm giá mạnh vào Thứ
+        Sáu Đen và mở rất sớm, chẳng hạn như lúc nửa đêm hoặc thậm chí có thể bắt đầu bán hàng của
+        họ vào một thời điểm nào đó vào Lễ Tạ Ơn. Thứ Sáu Đen không phải là ngày lễ chính thức,
+        nhưng California và một số tiểu bang khác coi "Ngày Sau Lễ Tạ Ơn" như một kỳ nghỉ cho nhân
+        viên chính phủ tiểu bang, đôi khi thay cho một kỳ nghỉ liên bang khác, chẳng hạn như Ngày
+        Columbus. Nhiều nhân viên và trường học không bán lẻ nghỉ 2 ngày Lễ Tạ Ơn và ngày thứ Sáu
+        sau đó, cùng với ngày cuối tuần thường xuyên sau đó, làm cho nó thành một chuỗi nghỉ ngày
+        cuối tuần bốn ngày liên tục, do đó làm tăng số lượng người mua sắm tiềm năng. Đừng quên ghé
+    thăm Tiki vào Black Friday để rinh những món quà hấp dẫn cùng những sản phẩm giá trị.</string>
+    <string name="noidung16">Ngày phụ nữ Việt Nam 20/10 là một ngày lễ nhằm tôn vinh phụ nữ, được tổ
+    chức vào ngày 20/10 hàng năm ở Việt Nam. Vào dịp này phụ nữ ở Việt Nam được nhiều người bày tỏ sự
+    quan tâm và tôn vinh dưới nhiều hình thức nhưng phổ biến nhất vẫn là tặng hoa hồng, thiệp và
+    lời chúc. Với Tiki, bạn có thể làm nhiều hơn thế cho người phụ nữ của mình. Đừng quên ghé thăm
+    Tiki với nhiều sự lựa chọn để lựa cho người phụ nữ của mình một món quà giá trị. Tiki áp dụng
+    chính sách giao hàng miễn phí với khách hàng là nữ trong thời gian 3 ngày từ 19 - 21/10. Đối
+    với phái mạnh, Tiki cũng có chương trình giảm giá cực sốc. Đối với đơn hàng từ 1.000.000 VNĐ
+    trở lên, Tiki hoàn toàn miễn phí vận chuyển. Đối với đơn hàng dưới 1.000.000 VNĐ, Tiki giảm 50%
+    phí vận chuyển cho khách hàng với mọi loại hình thức vận chuyển.</string>
+    <string name="noidung17">Lego là một dòng sản phẩm đồ chơi xây dựng được Tập đoàn Lego chế tạo,
+        một công ty tư nhân có trụ sở tại Billund, Đan Mạch. Cái tên "Lego" là viết tắt hai chữ cái
+        đầu của hai từ leg godt, có nghĩa là "chơi hay". Sản phẩm chủ lực của công ty, Lego,
+        bao gồm các viên gạch nhiều màu sắc được lắp ráp với nhau đi kèm với một loạt các răng ăn
+        khớp hình tròn, các nhân vật tí hon được gọi là minifigure, và nhiều bộ phận khác. Những
+        miếng ghép Lego có thể được lắp ráp và kết nối theo nhiều cách khác nhau, để xây dựng nên
+        nhiều đồ vật; xe cộ, tòa nhà và các người máy có thể hoạt động. Bất cứ thứ gì đều có thể tháo
+        rời sau khi đã lắp ráp, và các mảnh ghép sẽ được dùng để tạo ra những đồ vật khác. Tập đoàn
+        Lego bắt đầu sản xuất những viên gạch đồ chơi có thể lắp ráp được với nhau vào năm 1949.
+        Kể từ đó, tiểu văn hóa Lego toàn cầu đã phát triển. Việc hỗ trợ phát triển cho các bộ phim,
+        các trò chơi, các cuộc thi và sáu công viên giải trí Legoland đều được thực hiện dưới tên
+        hãng này. Tính đến tháng 7 năm 2015, 600 tỷ bộ phận Lego đã được sản xuất. Vào tháng 2 năm
+        2015, Lego đã thay thế Ferrari trong danh hiệu "nhãn hiệu quyền lực nhất thế giới"
+        của Brand Finance.</string>
+    <string name="thongtin"> * Công ty cổ phần Tiki</string>
+    <string name="diachidky"> * Địa chỉ đăng ký kinh doanh: 29/1, đường số 4, KP.3, P.Bình Thạnh
+    , Q.2, TPHCM, Việt Nam</string>
+    <string name="giaychungnhan"> * Giấy chứng nhận đăng ký kinh doanh số 0309532909 do Sở Kế hoạch
+    và Đầu tư Thành phố Hồ Chí Minh cấp ngày 06/01/2010</string>
+    <string name="vanphongchinh"> * Văn phòng chính: Tòa nhà Viettel, 285 Cách Mạng Tháng 8, Phường 12,
+        Quận 10, Thành phố Hồ Chí Minh</string>
+    <string name="vanphong"> * Văn phòng: 52 Út Tịch, Phường 4, Quận Tân Bình,
+        Thành phố Hồ Chí Minh</string>
+    <string name="gioithieu">Tiki là một hệ sinh thái thương mại tất cả trong một, gồm
+    nhiều công ty thành viên như: TikiNow Smart Logistics, Ticketbox, Đơn vị bán lẻ Tiki Trading
+    và Sàn giao dịch cung cấp 10 triệu sản phẩm từ 26 ngành hàng phục vụ hàng triệu khách hàng
+    trên toàn quốc. Với phương châm hoạt động "Tất cả vì khách hàng", Tiki luôn không ngừng nỗ lực
+    nâng cao chất lượng dịch vụ và sản phẩm, từ đó mang đến trải nghiệm mua sắm trọn vẹn cho Khách
+    Hàng Việt Nam với dịch vụ giao hàng nhanh chóng trong 2 tiếng và ngày hôm sau TikiNow đầu
+    tiên tại Đông Nam Á, cùng cam kết cung cấp hàng chính hãng với chính sách hoàn tiền 111% nếu phát
+        hiện hàng giả, hàng nhái.</string>
+    <string name="gioithieu2">Thành lập từ tháng 3/2010, Tiki.vn hiện đang là trang thương mại điện từ
+    lọt top 2 tại Việt Nam và top 6 tại khu vực Đông Nam Á. Tiki lọt top 1 nơi làm việc tốt nhất
+    Việt Nam trong ngành Internet/ E-commerce 2018 do Anphabe bình chọn và Top 50 nơi làm việc tốt
+    nhất châu Á 2019 do HR Asia bình chọn</string>
+    <string name="map_api_key">AIzaSyDRVgc5sfKKq58DSNZE7xWTZ0o-Z2pTVSc</string>
+    <string name="facebook_app_id">313421096358413</string>
+    <string name="fb_login_protocol_scheme">fb313421096358413</string>
+
+</resources>

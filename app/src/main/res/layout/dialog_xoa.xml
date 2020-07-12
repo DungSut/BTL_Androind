@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:text="Thông báo xóa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:textSize="24sp"
+        android:text="Xóa sản phẩm thành công"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:gravity="center_horizontal"
+        android:textSize="22sp"
+        android:text="Bạn có muốn tiếp tục không?"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:textSize="22sp"
+            android:layout_marginRight="5dp"
+            android:id="@+id/btnCoXoa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Có" />
+
+        <Button
+            android:textSize="22sp"
+            android:layout_marginLeft="5dp"
+            android:id="@+id/btnKhongXoa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Không" />
+    </LinearLayout>
+
+</LinearLayout>

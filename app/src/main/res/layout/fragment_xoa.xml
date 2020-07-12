@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:weightSum="10"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <AutoCompleteTextView
+                    android:completionThreshold="1"
+                    android:hint="Nhập loại sản phẩm"
+                    android:id="@+id/autoTenSanPhamXoa"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:completionHint="Nhập loại sản phẩm"
+                    android:text="" />
+
+                <ImageView
+                    android:id="@+id/imgSearchSanPhamXoa"
+                    android:layout_width="0dp"
+                    android:layout_height="45dp"
+                    android:layout_weight="2"
+                    app:srcCompat="@drawable/ic_baseline_search_24"
+                    tools:ignore="VectorDrawableCompat" />
+            </LinearLayout>
+
+            <GridView
+                android:numColumns="2"
+                android:id="@+id/gvlistXoa"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+            </GridView>
+
+            <ImageView
+                android:id="@+id/imgAnhChinhXoa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                app:srcCompat="@drawable/no_image" />
+
+            <LinearLayout
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:gravity="center_horizontal"
+                    android:textSize="22sp"
+                    android:id="@+id/tvTenSanPhamXoa"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="TextView" />
+
+                <TextView
+                    android:gravity="center_horizontal"
+                    android:textSize="22sp"
+                    android:id="@+id/tvGiaSanPhamXoa"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="TextView" />
+
+                <TextView
+                    android:gravity="center_horizontal"
+                    android:textSize="22sp"
+                    android:id="@+id/tvMotaSanPhamXoa"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="TextView" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_marginTop="5dp"
+                android:id="@+id/imgAnhPhuXoa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/no_image" />
+
+            <LinearLayout
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:layout_marginRight="5dp"
+                    android:textSize="22sp"
+                    android:id="@+id/btnXoa"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Xóa" />
+
+                <Button
+                    android:layout_marginLeft="5dp"
+                    android:textSize="22sp"
+                    android:id="@+id/btnHuyXoa"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Hủy" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

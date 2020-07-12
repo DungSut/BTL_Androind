@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/them"
+        android:icon="@drawable/ic_baseline_add_24"
+        android:title="Thêm"/>
+
+    <item
+        android:id="@+id/sua"
+        android:icon="@drawable/ic_baseline_edit_24"
+        android:title="Sửa"/>
+
+    <item
+        android:id="@+id/xoa"
+        android:icon="@drawable/ic_baseline_delete_24"
+        android:title="Xóa"/>
+
+</menu>

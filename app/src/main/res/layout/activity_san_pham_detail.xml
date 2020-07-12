@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".intent.SanPhamDetail">
+
+    <TextView
+        android:id="@+id/tvDetail"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:text="Chi tiết sản phẩm"
+        android:textSize="30sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <ScrollView
+        android:layout_below="@id/tvDetail"
+        android:layout_above="@id/btnMua"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_marginTop="5dp"
+                android:id="@+id/imgAnhChinhSanPham"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/bach_hoa_online" />
+
+            <TextView
+                android:layout_marginTop="3dp"
+                android:gravity="center_horizontal"
+                android:textSize="24sp"
+                android:id="@+id/tvTenSanPham"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tên sản phẩm" />
+
+            <TextView
+                android:layout_marginTop="3dp"
+                android:gravity="center_horizontal"
+                android:textSize="24sp"
+                android:id="@+id/tvGiaSanPham"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Giá sản phẩm" />
+
+            <TextView
+                android:layout_marginTop="3dp"
+                android:gravity="center_horizontal"
+                android:textSize="24sp"
+                android:id="@+id/tvmotaSanPham"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mô tả sản phẩm" />
+
+            <TextView
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="3dp"
+                android:textSize="20sp"
+                android:id="@+id/textView27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hình ảnh khác" />
+
+            <ImageView
+                android:layout_marginTop="3dp"
+                android:id="@+id/imgAnhPhuSanPham"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/bach_hoa_online" />
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btnMua"
+        android:layout_alignParentBottom="true"
+        android:textSize="30sp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:text="Chọn mua"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>
